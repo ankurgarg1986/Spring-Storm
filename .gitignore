@@ -1,0 +1,13 @@
+/settings
+/build
+/tmp/
+/bin
+.*
+/.*
+*/bin
+/*/bin
+/*/.*
+.*/*
+/.project
+/.gradle
+/config
